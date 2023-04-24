@@ -15,7 +15,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "REPLACE_ME"
+    organization = "arvind1973"
 
     workspaces {
       name = "learn-terraform-github-actions"
